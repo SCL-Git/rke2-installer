@@ -1,3 +1,4 @@
+#THIS IS AN EXAMPLE OF A CONFIG FILE
 token: my-shared-token
 write-kubeconfig-mode: "0644"
 tls-san:
