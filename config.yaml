@@ -1,0 +1,6 @@
+token: my-shared-token
+write-kubeconfig-mode: "0644"
+tls-san:
+  - "ubuntusrv001.local"
+debug: true
+
